@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.48.0"
+    "sass": "^1.48.0",
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
